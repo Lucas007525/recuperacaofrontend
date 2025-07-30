@@ -1,0 +1,47 @@
+:root{
+--preto:#000000;
+--branco:#ffffff;
+--tamanho-fonte-base:50px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: sans-serif;
+    background-color: var(--preto);
+    color: var(--preto);
+    font-size: var(--tamanho-fonte-base);
+  }
+
+  h1{
+color:var(--branco)
+
+  }
+  p{
+color:var(--branco)
+
+  }
+  .destaque{
+color: blue;
+
+  }
+
+  .meu-countainer{
+    padding-top: 200px;
+  }
+  .hatsumi{
+    width: 50%;
+    height: 40%;
+  }
+
+.rodape {
+  color: #fff; /* letras brancas */
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+  margin-top: 30px;
+}
+  
