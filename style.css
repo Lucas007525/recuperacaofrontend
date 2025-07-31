@@ -17,7 +17,7 @@ body {
   }
 
   h1{
-color:var(--branco)
+color:#0000ff;
 
   }
   p{
@@ -35,8 +35,20 @@ color: blue;
   .hatsumi{
     width: 50%;
     height: 40%;
+    border: 10px solid;
+    border-color: #00ffff;
   }
 
+  .importante{
+    color:#ff0000;
+  }
+
+.mitinha{
+  width: 900px;
+  height: 600px;
+  border: 10px solid;
+  border-color: #ff0000;
+}
 .rodape {
   color: #fff; /* letras brancas */
   text-align: center;
